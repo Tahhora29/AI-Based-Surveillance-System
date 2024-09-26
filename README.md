@@ -1,5 +1,5 @@
 #AI-Based Smart Surveillance System
-Project Overview
+#Project Overview
 The AI-Based Smart Surveillance System is an advanced monitoring solution designed to enhance security by automatically detecting harmful objects and activities in real-time. Utilizing state-of-the-art object detection models and deep learning techniques, this system is capable of identifying dangerous items such as firearms and alerting security personnel, ensuring swift response and increased safety.
 
 Features
